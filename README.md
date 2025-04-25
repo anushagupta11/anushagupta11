@@ -44,10 +44,9 @@ A grocery aggregator to compare prices across e-commerce platforms.
 - **Cybersecurity:** Phishing detection, link scanning
 
 ## 💼 Let's Connect!
-
-- 💼 **[LinkedIn](https://www.linkedin.com/in/anusha-gupta-735826284)**
-- 🐙 **[GitHub](https://github.com/anushagupta11)**
-- 📧 **[Email](mailto\:anusha73gupta@gmail.com)**
+- 💼 **LinkedIn:** [Anusha Gupta](https://www.linkedin.com/in/anusha-gupta-735826284)
+- 🐙 **GitHub:** [Anusha Gupta](https://github.com/anushagupta11)
+- 📧 **Email:** [anusha73gupta@gmail.com](anusha73gupta@gmail.com)
 
 ---
 
