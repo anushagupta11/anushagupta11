@@ -38,7 +38,7 @@ Hello there! I'm **Anusha Gupta**, a passionate **BTech undergraduate** with a s
 
 - 💼 **LinkedIn:** [Anusha Gupta](https://www.linkedin.com/in/anusha-gupta-735826284)
 - 🐙 **GitHub:** [Anusha Gupta](https://github.com/anushagupta11)
-- 📧 **Email:** [your.email@example.com](anusha73gupta@gmail.com)
+- 📧 **Email:** [anusha73gupta@gmail.com](anusha73gupta@gmail.com)
 
 ---
 
