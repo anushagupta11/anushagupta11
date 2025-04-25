@@ -11,23 +11,6 @@ Hello there! I'm **Anusha Gupta**, a passionate **BTech undergraduate** with a s
   - **Frameworks & Libraries:** Flask, Node.js, React, TailwindCSS, Bootstrap
   - **Tools & Platforms:** Git, GitHub, Docker, Heroku, AWS, Firebase
 
-## Projects
-
-### 1. **MintFiber**
-
-- **Description:** A tool designed to prevent digital fraud through phishing link blocking and user alerts. Features include phishing detection and user safety alerts
-- **Tech Stack:** Flask, Python, HTML/CSS, TailwindCSS, JavaScript
-
-### 2. **Navio**
-
-- **Description:** Developed a solution for improving offline access, traffic data reliability, and battery efficiency in mapping apps.
-- **Tech Stack:** React, Node.js, Google Maps API
-
-### 3. **Organo**
-
-- **Description:** A grocery aggregator app that compares prices across different platforms and redirects users to the platform offering the best deal.
-- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
-
 ## Skills
 
 - **Programming:** Python, C, Java, JavaScript
